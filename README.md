@@ -12,17 +12,12 @@
 <img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=viditlakhera" />
 </picture>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viditlakhera&label=Profile%20views&color=0e75b6&style=flat" alt="viditlakhera" /> </p>
-- :telescope: I’m currently working on **Backend Projects**
-- :seedling: I’m currently learning **React, NextJS**
-- :male-technologist: All of my projects are available at [portfolio](https://vikasyadav.vercel.app/)
-- :speech_balloon: Ask me about **MongoDB, NodeJS and JavaScript**
-- :mailbox: How to reach me **lakheravidit@gmail.com**
 <br>
 <br>
 <br>
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Connect with me ....***<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
 <p>
-<a href="https://linkedin.com/in/imvikasyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imvikasyadav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/viditlakhera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imvikasyadav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imviditlakhera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_yadav14" height="30" width="40" /></a>
 </p>
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech stack
